@@ -1,11 +1,7 @@
 # yuebaoli.com.cn
-welcome to yuebaoli.com.cn
+welcome to yuebaoli.com.cn   欢迎来到岳包李官网[http://yuebaoli.com.cn]
 
-欢迎来到岳包李官网[http://yuebaoli.com.cn]
-
-mail:hms@yuebaoli.com.cn  by:HMS weihms
-
-2017-2-25 02:06:45
+mail:hms@yuebaoli.com.cn  by:HMS weihms  2017-2-25 02:06:45
 
 ## 开发的标准：
 - 分支 0.0.1 作为开发版
